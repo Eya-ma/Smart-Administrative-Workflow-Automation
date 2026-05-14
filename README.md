@@ -170,17 +170,24 @@ It reflects the ability to design a complete and structured system inspired by r
 
 ## Author
 
-Developed by a Computer Science student interested in:
+## Author
+
+Developed by a professional specialized in Artificial Intelligence and Information Systems, with strong interests in intelligent automation, workflow optimization, and software architecture.
+
+Areas of interest include:
 
 - Artificial Intelligence
 - Intelligent Systems
+- Information Systems
 - Workflow Automation
 - Software Architecture
 - Multi-Agent Systems
-- LLM
+- Large Language Models (LLMs)
   
 ---
 
-## License
+## Project Status
 
-This project is intended for academic and educational purposes.
+This project represents an initial prototype designed to explore intelligent workflow automation and multi-agent system architecture using Python.
+
+The current version focuses on the core system logic and workflow simulation. Future improvements may include advanced AI integration, database connectivity, web interfaces, and real-world deployment features.
