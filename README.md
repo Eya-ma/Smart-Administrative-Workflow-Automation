@@ -80,7 +80,8 @@ Archiving and Tracking
 ```text
 project/
 │
-├── Smart Bureau D'ordre -Soc-Electricité.ipynb
+├── 
+Smart Administrative Workflow Automation.ipynb
 ├── logs/
 └── README.md
 ```
@@ -110,7 +111,7 @@ jupyter notebook
 Open the notebook:
 
 ```text
-Smart Bureau D'ordre -Soc-Electricité.ipynb
+Smart Administrative Workflow Automation.ipynb
 ```
 
 ---
